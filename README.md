@@ -6,7 +6,7 @@
 + - Model DB
 + - Api
 + ---------------------------------------------
-+ Scss, styled-components, react, redux toolkit, nodejs, mongoDB.
++ Scss, styled-components, react, redux toolkit, nodejs, mongoDB, firebase.
 + ---------------------------------------------
 install db
 + install fe: yarn add, yarn start
