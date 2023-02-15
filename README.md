@@ -1,7 +1,6 @@
 # Netflix-Clone
 + FE
 + - Giao diện 
-(Chat)
 + BE
 + - Model DB
 + - Api
