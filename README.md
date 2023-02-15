@@ -1,4 +1,5 @@
 # Netflix-Clone
++ MERN Stack
 + FE
 + - Giao diện 
 + BE
