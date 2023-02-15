@@ -4,7 +4,6 @@
 + BE
 + - Model DB
 + - Api
-( Đăng kí, đăng nhập)
 + Scss, styled-components, react, redux toolkit, nodejs, mongoDB.
 + ---------------------------------------------
 install db
