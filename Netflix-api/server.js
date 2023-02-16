@@ -1,6 +1,7 @@
 const express = require("express")
 const cors = require("cors")
 const mongoose = require("mongoose")
+const router = require("./router/UserRouter")
 
 
 const app = express()
@@ -15,5 +16,8 @@ mongoose.connect("mongodb://localhost:27017/Netflix", {
 }).then(() => {
     console.log("DB Connected")
 })
+
+app.use("/api/user", router)
+
 
 app.listen(5000, console.log("server stated"))
